@@ -1,0 +1,32 @@
+{
+    "function_name": "",
+    "description": "",
+    "version": "",
+    "handler": "",
+    "runtime": "",
+    "timeout": 0,
+    "memory_size": 0,
+    "environment": {
+        "key": "value"
+    },
+    "layers": [
+        {
+            "name":"",
+            "version": ""
+        }
+    ],
+    "permissions": [
+        {
+            "sid": "",
+            "effect": "",
+            "principal": "",
+            "action": "",
+            "resource": ""
+        }
+    ],
+    "source_dir": "src",
+    "build_dir": ".build",
+    "bucket_name_code":"",
+    "bucket_name_key":"",
+    "name_zip":""
+}
